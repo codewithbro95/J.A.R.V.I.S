@@ -3,14 +3,14 @@
 
 The J.A.R.V.I.S Large Language Model, 100% offline
 
-We have use custom jarvis dataset and various other open datasets on the internet of jarvis's dialog with stark to fine-tune on top of Llama2 7b
+We have used custom jarvis dataset and various other open datasets on the internet of jarvis's dialog with stark to fine-tune on top of Llama2-7b
 
 ## Content
 
 - Dataset [here](https://huggingface.co/datasets/fotiecodes/jarvis-llama2-dataset) | dataset is being created progresively
 - Model: [here](https://huggingface.co/fotiecodes/Llama-2-7b-chat-jarvis) | Updated every week or so
 
-Jarvis is bing built with privacy in mind, everything runs locally. This fine-tuned model is better at responding like jarvis and producing response in the best jarvis tone possible.
+Jarvis is being built with privacy in mind, everything runs locally. This fine-tuned model is better at responding like jarvis and producing response in the best jarvis-tone possible.
 
 ## Star History
 
